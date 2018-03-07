@@ -1,0 +1,10 @@
+namespace Parameters
+{
+class Pass
+{
+public static void Value(int param)
+{
+param = 42;
+}
+}
+}
